@@ -10,7 +10,7 @@ Obsidian es una herramienta poderosa para gestionar tus pensamientos y notas. Al
 
 - **Personalización:** Con cientos de complementos (plugins) y temas, puedes adaptar Obsidian según tu estilo de pensamiento y preferencias.
 
-- **Perdurabilidad del conocimiento:** Obsidian utiliza archivos abiertos y no propietarios, lo que significa que nunca estarás atrapado en un sistema cerrado. Esto te permite preservar tus datos a largo plazo.
+- **Perdurabilidad del conocimiento:** Obsidian utiliza archivos abiertos y no propietarios, lo que significa que nunca estarás atrapado en un sistema cerrado. Esto te permite preservar tus datos a largo plazo..
 
 ## Cómo Contribuir
 

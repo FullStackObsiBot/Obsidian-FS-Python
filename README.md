@@ -23,7 +23,7 @@ Obsidian es una herramienta poderosa para gestionar tus pensamientos y notas. Al
 5. Hacer push a tu rama en tu repositorio en GitHub.
 6. Crear un Pull Request describiendo tus cambios y por qué son valiosos.
 
-Si estás interesado en ser colaborador regular del proyecto y unirte al equipo, por favor contáctanos a través de [nuestro correo electrónico](mailto:tu@email.com) y estaremos encantados de discutir cómo puedes contribuir más activamente.
+Si estás interesado en ser colaborador regular del proyecto y unirte al equipo, por favor contáctanos a través de [nuestro correo electrónico](orlandocardenas0107@email.com) y estaremos encantados de discutir cómo puedes contribuir más activamente.
 
 ## Instalación y Uso
 
@@ -33,6 +33,6 @@ Si estás interesado en ser colaborador regular del proyecto y unirte al equipo,
 
 ## Contacto
 
-Si tienes preguntas, sugerencias o simplemente deseas conectarte, no dudes en [contactarnos](mailto:tu@email.com).
+Si tienes preguntas, sugerencias o simplemente deseas conectarte, no dudes en [contactarnos](mailto:orlandocardenas0107@email.com).
 
 ¡Esperamos que este proyecto basado en Obsidian te ayude a gestionar tus pensamientos y notas de manera más efectiva y segura!
